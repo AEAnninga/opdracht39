@@ -1,0 +1,17 @@
+.sorted-landen-lijst {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 25px;
+}
+
+.steenbok-vrouwen {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 25px;
+}
+
+.meeste-mensen-land {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 25px;
+}/*# sourceMappingURL=style.css.map */
